@@ -1,0 +1,33 @@
+{
+  "name": "programscripter",
+  "version": "1.0.2",
+  "description": "programscripter",
+  "type": "module",
+  "main": "programscripter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mendosaessiep/programscripter"
+  },
+  "website": "https://github.com/mendosaessiep/programscripter.git",
+  "keywords": [
+    "programscripter"
+  ],
+  "author": "mendosaessiep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mendosaessiep/programscripter/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/mendosaessiep/programscripter#readme",
+  "dependencies": {
+    "programscriptsavvy": "1.0.2",
+    "codedevgenius": "1.0.2",
+    "devcodecraft": "1.0.2"
+  }
+}
